@@ -1,0 +1,11 @@
+
+nav{
+	color: purple;
+}
+
+
+@media all and (max-width:600px){
+	nav{
+		color: blue;
+	}
+}
